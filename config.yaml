@@ -1,6 +1,6 @@
 name: LMFDB
 description: |
-    Import from <a href="http://www.lmfdb.org/knowledge">LMFDB/Knowledge</a>
+    Import from LMFDB.org/Knowledge
 
 latex_macros: |
     C: '{\\mathbb{C}}',
