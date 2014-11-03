@@ -1,6 +1,7 @@
 name: LMFDB
 description: |
     Import from LMFDB.org/Knowledge
+icon: img/lmfdb-logo.svg
 
 latex_macros: |
     C: '{\\mathbb{C}}',
